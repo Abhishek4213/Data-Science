@@ -1,0 +1,1 @@
+Data Science involves analyzing large datasets using statistical methods and machine learning to uncover trends and create predictive models. It integrates programming, data visualization, and business understanding to solve real-world problems and support informed decision-making.
